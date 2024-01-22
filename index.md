@@ -5,9 +5,9 @@
 ### H3 Header
 #### H5 Header
 ##### H6 Header
-```
-Syntax:
 
+Syntax:
+```
 # H1 Header
 ## H2 Header
 ### H3 Header
@@ -19,9 +19,8 @@ Syntax:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
 Syntax:
-
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Text to be showed insted of image, incase of low internet](Link to the image)
@@ -39,7 +38,22 @@ string = 'Hello world!'
 print(string)
 ```
 
-```
 Syntax:
+```
 
 ```
+
+# Step 4 Check Box / Task List
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+Syntax:
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
+
+
